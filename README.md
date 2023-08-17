@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Aws With Cloud
 - 💬 Ask mi about java full stack Developement
-- 📞 PhoneNumbe:8623809917
+- 📧 Email: creatives.garje@gmail.com
 - ⚡ Fun fact:Do Coding 
 
 ## Tools
