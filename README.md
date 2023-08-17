@@ -6,7 +6,7 @@
 - 📧 Email: creatives.garje@gmail.com
 - ⚡ Fun fact:Do Coding 
 
-## Tools
+## Skills And Tools
 <table style="border=1px solid red">
 <tr style="list-style-type:none">
 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJF-Ij8t5RMseFye4hxGCXEu4uXsNvnmyVw&usqp=CAU" width=130px></td>
