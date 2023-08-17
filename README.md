@@ -1,6 +1,6 @@
 ### Hello,This is Amol 👋
 
-
+<hr>
 
 - 🌱 I’m currently learning Aws With Cloud
 - 💬 Ask mi about java full stack Developement
