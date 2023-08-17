@@ -24,10 +24,5 @@
 <td><img src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" width=130px></td>
 <td><img src="https://assets-global.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb9a22ba607c7ef857d83e_mysql.svg" width=130px></td>
 <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg" width=130px></td>
-<td><img src="" width=130px></td>
 </tr>
-
-
- <img src=">
-
 </table>
