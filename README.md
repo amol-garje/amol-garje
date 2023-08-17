@@ -1,11 +1,9 @@
 ### Hello,This is Amol 👋
-<!--
-**amol-garje/amol-garje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Aws With Cloud...
-- 💬 Ask mi about java full stack Developement ...
-- 📞 PhoneNumbe:8623809917...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning Aws With Cloud
+- 💬 Ask mi about java full stack Developement
+- 📞 PhoneNumbe:8623809917
+- ⚡ Fun fact:Do Coding 
+
