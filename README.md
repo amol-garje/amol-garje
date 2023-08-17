@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello This is Amol 👋
 <!--
 **amol-garje/amol-garje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
