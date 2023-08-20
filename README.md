@@ -1,7 +1,6 @@
 ## Hello,This is Amol 👋
 
 
-- 🌱 I’m currently learning Aws With Cloud
 - 💬 Ask mi about java full stack Developement
 - 📧 Email: creatives.garje@gmail.com
 - ⚡ Fun fact:Do Coding 
