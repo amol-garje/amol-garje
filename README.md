@@ -24,6 +24,6 @@
 <td><img src="https://assets-global.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb9a22ba607c7ef857d83e_mysql.svg" width=130px></td>
 <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg" width=130px></td>
 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5-zaALzMRBSt0pNc3o3kExvF2Y3Q9uHvIfTTWgpaMTssAHIbt8XwcmOk39izVyzzTQ&usqp=CAU" width=130px></td>
-<td><img src="https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-python-postgresql-developer-course%2F"></td>
+<td><img src="[https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-python-postgresql-developer-course%2F](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMFhBVEJ1aneKXTFNeMKIfep5vNp8fV4PbQ&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMFhBVEJ1aneKXTFNeMKIfep5vNp8fV4PbQ&usqp=CAU"></td>
 </tr>
 </table>
