@@ -2,7 +2,7 @@
 
 
 - 💬 Ask mi about java full stack Developement
-- 📧 Email: creatives.garje@gmail.com
+- 📧 Email: amolgarje9917@gmail.com
 - ⚡ Fun fact:Do Coding 
 
 ## Skills And Tools
