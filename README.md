@@ -25,5 +25,10 @@
 <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg" width=130px></td>
 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5-zaALzMRBSt0pNc3o3kExvF2Y3Q9uHvIfTTWgpaMTssAHIbt8XwcmOk39izVyzzTQ&usqp=CAU" width=130px></td>
 <td><img src="https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png" width=130px></td>
+<td><img src="https://img-c.udemycdn.com/course/480x270/3352204_9c9a_20.jpg" width=130px></td> 
 </tr>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XvJ0GDWOAEHNApZvw-dOVQ.png" width=130px></td>
+<td><img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-09/ECX-1909_Hero_Kafka_600x400%402x-1.webp" width=130px></td>
+  </tr>
 </table>
